@@ -1,7 +1,9 @@
 Проект "Сложно сосредоточиться".
+
 Файлы репозитория:
-fonts.css (шрифты)
-script.js (скрипты)
-styles (стили)
-index.html (html страница)
-read.me
+
+1. fonts.css (шрифты)
+2. script.js (скрипты)
+3. styles (стили)
+4. index.html (html страница)
+5. README.md
